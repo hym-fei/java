@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/hym-fei/inkball-java.git
+git clone https://github.com/hym-fei/java.git
 cd inkball-java
 Install dependencies:
 
